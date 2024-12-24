@@ -15,7 +15,7 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 WITH_GMS := true
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_larry
+PRODUCT_NAME := aosp_larry
 PRODUCT_DEVICE := larry
 PRODUCT_BRAND := oneplus
 PRODUCT_MODEL := CPH2467
