@@ -54,6 +54,12 @@ PRODUCT_COPY_FILES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    LarryEUSettingsProviderOverlay \
+    LarryEUWifiOverlay \
+    LarryINSettingsProviderOverlay \
+    LarryINWifiOverlay \
+    LarryNASettingsProviderOverlay \
+    LarryNAWifiOverlay \
     OPlusFrameworksResTarget
 
 # Soong namespaces
