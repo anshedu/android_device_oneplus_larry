@@ -23,7 +23,7 @@ TARGET_ENABLE_BLUR := true
 
 # Camera information
 AXION_CAMERA_REAR_INFO := 108, 2, 2
-AXION_CAMERA_FRONT_INFO: = 16
+AXION_CAMERA_FRONT_INFO := 16
 
 # Maintainer name
 AXION_MAINTAINER := Ansh_Agnihotri
