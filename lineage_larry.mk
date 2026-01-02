@@ -16,6 +16,8 @@ TARGET_ENABLE_BLUR := true
 
 WITH_BCR := false
 
+WITH_GMS := true
+
 # Inherit from larry device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
